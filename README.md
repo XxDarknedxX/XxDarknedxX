@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XxDarknedxX
+- 👀 I’m interested in C#, js
+- 🌱 I’m currently learning C++, js
